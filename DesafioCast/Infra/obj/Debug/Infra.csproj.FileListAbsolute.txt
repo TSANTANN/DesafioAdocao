@@ -1,0 +1,40 @@
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\obj\Debug\Infra.csproj.CoreCompileInputs.cache
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\Infra.dll.config
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\Infra.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\Infra.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\Core.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\EntityFramework.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\Core.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\EntityFramework.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\obj\Debug\Infra.csproj.CopyComplete
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\obj\Debug\Infra.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Infra\obj\Debug\Infra.pdb
+D:\DesafioCast\Infra\bin\Debug\Infra.dll.config
+D:\DesafioCast\Infra\bin\Debug\Infra.dll
+D:\DesafioCast\Infra\bin\Debug\Infra.pdb
+D:\DesafioCast\Infra\bin\Debug\Core.dll
+D:\DesafioCast\Infra\bin\Debug\EntityFramework.dll
+D:\DesafioCast\Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\DesafioCast\Infra\bin\Debug\Core.pdb
+D:\DesafioCast\Infra\bin\Debug\EntityFramework.xml
+D:\DesafioCast\Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\DesafioCast\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+D:\DesafioCast\Infra\obj\Debug\Infra.dll
+D:\DesafioCast\Infra\obj\Debug\Infra.pdb
+E:\DesafioCast\Infra\bin\Debug\Infra.dll.config
+E:\DesafioCast\Infra\bin\Debug\Infra.dll
+E:\DesafioCast\Infra\bin\Debug\Infra.pdb
+E:\DesafioCast\Infra\bin\Debug\Core.dll
+E:\DesafioCast\Infra\bin\Debug\EntityFramework.dll
+E:\DesafioCast\Infra\bin\Debug\EntityFramework.SqlServer.dll
+E:\DesafioCast\Infra\bin\Debug\Core.pdb
+E:\DesafioCast\Infra\bin\Debug\EntityFramework.xml
+E:\DesafioCast\Infra\bin\Debug\EntityFramework.SqlServer.xml
+E:\DesafioCast\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+E:\DesafioCast\Infra\obj\Debug\Infra.csproj.CoreCompileInputs.cache
+E:\DesafioCast\Infra\obj\Debug\Infra.csproj.CopyComplete
+E:\DesafioCast\Infra\obj\Debug\Infra.dll
+E:\DesafioCast\Infra\obj\Debug\Infra.pdb

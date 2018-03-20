@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Core.Model.Adotante>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<p>
+    @Html.ActionLink("Adotar um Animal", "Create", null, new { @class = "btn btn-mini btn-info" })
+</p>
+<p>
+    @if (@ViewBag.Message != null)
+    {
+        <div class="alert alert-warning">
+            <button type="button" class="close" data-dismiss="alert">X</button>
+            @ViewBag.Message
+        </div>
+    }
+
+</p>
+
+<h2>Animais Adotados</h2>
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.Name("Nome do Animal")
+        </th>
+        <th>
+            @Html.Name("Espécie")
+        </th>
+        <th>
+            @Html.Name("Raça")
+        </th>
+        <th>
+            @Html.Name("Adotado Por")
+        </th>
+        <th>
+            @Html.Name("Data da Adoção")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <th>
+            @Html.DisplayFor(modelItem => item.Animal.Nome)          
+        </th>
+        <th>
+            @Html.DisplayFor(modelItem => item.Animal.Especie.Nome)
+        </th>
+        <td>
+            @Html.DisplayFor(modelItem => item.Animal.Raca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pessoa.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataAdocao)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id }, new { @class = "btn btn-mini btn-warning" }) |           
+            @Html.ActionLink("Devolver", "Delete", new { id=item.Id }, new { @class = "btn btn-mini btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>

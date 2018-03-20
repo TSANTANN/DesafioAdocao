@@ -1,0 +1,342 @@
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\ApplicationInsights.config
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Web.Mvc.dll.config
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Web.Mvc.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Web.Mvc.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\csc.exe
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\csc.exe.config
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\csc.rsp
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\csi.exe
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\csi.exe.config
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\csi.rsp
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.AppContext.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Console.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.IO.Compression.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Claims.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Threading.Thread.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.ValueTuple.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\vbc.exe
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\vbc.exe.config
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\vbc.rsp
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Antlr3.Runtime.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\EntityFramework.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Infra.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.Web.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Newtonsoft.Json.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.Helpers.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.Mvc.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.Optimization.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.Razor.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.WebPages.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\WebGrease.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Core.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Infra.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Infra.dll.config
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\EntityFramework.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.Helpers.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.Mvc.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.Optimization.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.Razor.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.WebPages.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Newtonsoft.Json.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Microsoft.AI.Web.xml
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Core.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.csprojResolveAssemblyReference.cache
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.csproj.CopyComplete
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\CommonServiceLocator.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Abstractions.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Configuration.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Container.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Interception.Configuration.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Interception.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Mvc.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.RegistrationByConvention.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.ServiceLocation.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\WebActivatorEx.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\CommonServiceLocator.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Configuration.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Interception.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.Interception.Configuration.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Web.Mvc\bin\Unity.ServiceLocation.pdb
+D:\DesafioCast\Web.Mvc\bin\ApplicationInsights.config
+D:\DesafioCast\Web.Mvc\bin\Web.Mvc.dll.config
+D:\DesafioCast\Web.Mvc\bin\Web.Mvc.dll
+D:\DesafioCast\Web.Mvc\bin\Web.Mvc.pdb
+D:\DesafioCast\Web.Mvc\bin\roslyn\csc.exe
+D:\DesafioCast\Web.Mvc\bin\roslyn\csc.exe.config
+D:\DesafioCast\Web.Mvc\bin\roslyn\csc.rsp
+D:\DesafioCast\Web.Mvc\bin\roslyn\csi.exe
+D:\DesafioCast\Web.Mvc\bin\roslyn\csi.exe.config
+D:\DesafioCast\Web.Mvc\bin\roslyn\csi.rsp
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.AppContext.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Collections.Immutable.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Console.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.Process.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.Compression.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.Pipes.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.AccessControl.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Claims.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Threading.Thread.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.ValueTuple.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XPath.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DesafioCast\Web.Mvc\bin\roslyn\vbc.exe
+D:\DesafioCast\Web.Mvc\bin\roslyn\vbc.exe.config
+D:\DesafioCast\Web.Mvc\bin\roslyn\vbc.rsp
+D:\DesafioCast\Web.Mvc\bin\roslyn\VBCSCompiler.exe
+D:\DesafioCast\Web.Mvc\bin\roslyn\VBCSCompiler.exe.config
+D:\DesafioCast\Web.Mvc\bin\Antlr3.Runtime.dll
+D:\DesafioCast\Web.Mvc\bin\CommonServiceLocator.dll
+D:\DesafioCast\Web.Mvc\bin\Core.dll
+D:\DesafioCast\Web.Mvc\bin\EntityFramework.dll
+D:\DesafioCast\Web.Mvc\bin\EntityFramework.SqlServer.dll
+D:\DesafioCast\Web.Mvc\bin\Infra.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.Web.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.WindowsServer.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.ApplicationInsights.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DesafioCast\Web.Mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\DesafioCast\Web.Mvc\bin\Newtonsoft.Json.dll
+D:\DesafioCast\Web.Mvc\bin\System.Web.Helpers.dll
+D:\DesafioCast\Web.Mvc\bin\System.Web.Mvc.dll
+D:\DesafioCast\Web.Mvc\bin\System.Web.Optimization.dll
+D:\DesafioCast\Web.Mvc\bin\System.Web.Razor.dll
+D:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Deployment.dll
+D:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.dll
+D:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Razor.dll
+D:\DesafioCast\Web.Mvc\bin\Unity.Abstractions.dll
+D:\DesafioCast\Web.Mvc\bin\Unity.Configuration.dll
+D:\DesafioCast\Web.Mvc\bin\Unity.Container.dll
+D:\DesafioCast\Web.Mvc\bin\Unity.Interception.Configuration.dll
+D:\DesafioCast\Web.Mvc\bin\Unity.Interception.dll
+D:\DesafioCast\Web.Mvc\bin\Unity.Mvc.dll
+D:\DesafioCast\Web.Mvc\bin\Unity.RegistrationByConvention.dll
+D:\DesafioCast\Web.Mvc\bin\Unity.ServiceLocation.dll
+D:\DesafioCast\Web.Mvc\bin\WebActivatorEx.dll
+D:\DesafioCast\Web.Mvc\bin\WebGrease.dll
+D:\DesafioCast\Web.Mvc\bin\Core.pdb
+D:\DesafioCast\Web.Mvc\bin\Infra.pdb
+D:\DesafioCast\Web.Mvc\bin\CommonServiceLocator.pdb
+D:\DesafioCast\Web.Mvc\bin\EntityFramework.xml
+D:\DesafioCast\Web.Mvc\bin\EntityFramework.SqlServer.xml
+D:\DesafioCast\Web.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DesafioCast\Web.Mvc\bin\System.Web.Helpers.xml
+D:\DesafioCast\Web.Mvc\bin\System.Web.Mvc.xml
+D:\DesafioCast\Web.Mvc\bin\System.Web.Optimization.xml
+D:\DesafioCast\Web.Mvc\bin\System.Web.Razor.xml
+D:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.xml
+D:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Deployment.xml
+D:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Razor.xml
+D:\DesafioCast\Web.Mvc\bin\Unity.Configuration.pdb
+D:\DesafioCast\Web.Mvc\bin\Unity.Interception.pdb
+D:\DesafioCast\Web.Mvc\bin\Unity.Interception.Configuration.pdb
+D:\DesafioCast\Web.Mvc\bin\Unity.ServiceLocation.pdb
+D:\DesafioCast\Web.Mvc\bin\Antlr3.Runtime.pdb
+D:\DesafioCast\Web.Mvc\bin\Newtonsoft.Json.xml
+D:\DesafioCast\Web.Mvc\bin\Microsoft.ApplicationInsights.xml
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.WindowsServer.xml
+D:\DesafioCast\Web.Mvc\bin\Microsoft.AI.Web.xml
+D:\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.csprojResolveAssemblyReference.cache
+D:\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.dll
+D:\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.pdb
+E:\DesafioCast\Web.Mvc\bin\ApplicationInsights.config
+E:\DesafioCast\Web.Mvc\bin\Web.Mvc.dll.config
+E:\DesafioCast\Web.Mvc\bin\Web.Mvc.dll
+E:\DesafioCast\Web.Mvc\bin\Web.Mvc.pdb
+E:\DesafioCast\Web.Mvc\bin\roslyn\csc.exe
+E:\DesafioCast\Web.Mvc\bin\roslyn\csc.exe.config
+E:\DesafioCast\Web.Mvc\bin\roslyn\csc.rsp
+E:\DesafioCast\Web.Mvc\bin\roslyn\csi.exe
+E:\DesafioCast\Web.Mvc\bin\roslyn\csi.exe.config
+E:\DesafioCast\Web.Mvc\bin\roslyn\csi.rsp
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DesafioCast\Web.Mvc\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.AppContext.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Collections.Immutable.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Console.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.Process.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.Compression.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.IO.Pipes.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.AccessControl.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Claims.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Threading.Thread.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.ValueTuple.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XPath.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DesafioCast\Web.Mvc\bin\roslyn\vbc.exe
+E:\DesafioCast\Web.Mvc\bin\roslyn\vbc.exe.config
+E:\DesafioCast\Web.Mvc\bin\roslyn\vbc.rsp
+E:\DesafioCast\Web.Mvc\bin\roslyn\VBCSCompiler.exe
+E:\DesafioCast\Web.Mvc\bin\roslyn\VBCSCompiler.exe.config
+E:\DesafioCast\Web.Mvc\bin\Antlr3.Runtime.dll
+E:\DesafioCast\Web.Mvc\bin\CommonServiceLocator.dll
+E:\DesafioCast\Web.Mvc\bin\Core.dll
+E:\DesafioCast\Web.Mvc\bin\EntityFramework.dll
+E:\DesafioCast\Web.Mvc\bin\EntityFramework.SqlServer.dll
+E:\DesafioCast\Web.Mvc\bin\Infra.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.Web.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.WindowsServer.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.ApplicationInsights.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DesafioCast\Web.Mvc\bin\Microsoft.Web.Infrastructure.dll
+E:\DesafioCast\Web.Mvc\bin\Newtonsoft.Json.dll
+E:\DesafioCast\Web.Mvc\bin\System.Web.Helpers.dll
+E:\DesafioCast\Web.Mvc\bin\System.Web.Mvc.dll
+E:\DesafioCast\Web.Mvc\bin\System.Web.Optimization.dll
+E:\DesafioCast\Web.Mvc\bin\System.Web.Razor.dll
+E:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Deployment.dll
+E:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.dll
+E:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Razor.dll
+E:\DesafioCast\Web.Mvc\bin\Unity.Abstractions.dll
+E:\DesafioCast\Web.Mvc\bin\Unity.Configuration.dll
+E:\DesafioCast\Web.Mvc\bin\Unity.Container.dll
+E:\DesafioCast\Web.Mvc\bin\Unity.Interception.Configuration.dll
+E:\DesafioCast\Web.Mvc\bin\Unity.Interception.dll
+E:\DesafioCast\Web.Mvc\bin\Unity.Mvc.dll
+E:\DesafioCast\Web.Mvc\bin\Unity.RegistrationByConvention.dll
+E:\DesafioCast\Web.Mvc\bin\Unity.ServiceLocation.dll
+E:\DesafioCast\Web.Mvc\bin\WebActivatorEx.dll
+E:\DesafioCast\Web.Mvc\bin\WebGrease.dll
+E:\DesafioCast\Web.Mvc\bin\Core.pdb
+E:\DesafioCast\Web.Mvc\bin\Infra.pdb
+E:\DesafioCast\Web.Mvc\bin\Infra.dll.config
+E:\DesafioCast\Web.Mvc\bin\CommonServiceLocator.pdb
+E:\DesafioCast\Web.Mvc\bin\EntityFramework.xml
+E:\DesafioCast\Web.Mvc\bin\EntityFramework.SqlServer.xml
+E:\DesafioCast\Web.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DesafioCast\Web.Mvc\bin\System.Web.Helpers.xml
+E:\DesafioCast\Web.Mvc\bin\System.Web.Mvc.xml
+E:\DesafioCast\Web.Mvc\bin\System.Web.Optimization.xml
+E:\DesafioCast\Web.Mvc\bin\System.Web.Razor.xml
+E:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.xml
+E:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Deployment.xml
+E:\DesafioCast\Web.Mvc\bin\System.Web.WebPages.Razor.xml
+E:\DesafioCast\Web.Mvc\bin\Unity.Configuration.pdb
+E:\DesafioCast\Web.Mvc\bin\Unity.Interception.pdb
+E:\DesafioCast\Web.Mvc\bin\Unity.Interception.Configuration.pdb
+E:\DesafioCast\Web.Mvc\bin\Unity.ServiceLocation.pdb
+E:\DesafioCast\Web.Mvc\bin\Antlr3.Runtime.pdb
+E:\DesafioCast\Web.Mvc\bin\Newtonsoft.Json.xml
+E:\DesafioCast\Web.Mvc\bin\Microsoft.ApplicationInsights.xml
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.WindowsServer.xml
+E:\DesafioCast\Web.Mvc\bin\Microsoft.AI.Web.xml
+E:\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.csprojResolveAssemblyReference.cache
+E:\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.csproj.CoreCompileInputs.cache
+E:\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.csproj.CopyComplete
+E:\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.dll
+E:\DesafioCast\Web.Mvc\obj\Debug\Web.Mvc.pdb

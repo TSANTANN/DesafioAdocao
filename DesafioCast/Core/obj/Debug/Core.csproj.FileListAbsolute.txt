@@ -1,0 +1,15 @@
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Core\bin\Debug\Core.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Core\obj\Debug\Core.pdb
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Core\bin\Debug\Core.dll
+C:\Users\TCMS\Documents\Visual Studio 2017\Projects\DesafioCast\Core\obj\Debug\Core.dll
+D:\DesafioCast\Core\bin\Debug\Core.dll
+D:\DesafioCast\Core\bin\Debug\Core.pdb
+D:\DesafioCast\Core\obj\Debug\Core.dll
+D:\DesafioCast\Core\obj\Debug\Core.pdb
+E:\DesafioCast\Core\bin\Debug\Core.dll
+E:\DesafioCast\Core\bin\Debug\Core.pdb
+E:\DesafioCast\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\DesafioCast\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+E:\DesafioCast\Core\obj\Debug\Core.dll
+E:\DesafioCast\Core\obj\Debug\Core.pdb

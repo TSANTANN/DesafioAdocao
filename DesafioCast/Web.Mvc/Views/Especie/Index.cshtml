@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Core.Model.Especie>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Cadastro de Espécies</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar nova Espécie", "Create", null, new { @class = "btn btn-mini btn-info" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-mini btn-warning" }) |
+            @Html.ActionLink("Excluir", "Delete", new { id = item.Id }, new { @class = "btn btn-mini btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>

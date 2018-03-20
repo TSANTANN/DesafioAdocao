@@ -1,0 +1,64 @@
+﻿@model Core.Model.Adotante
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Devolver</h2>
+
+<h3>Esse animalzinho será realmente devolvido?<img src="https://i2.wp.com/reporternordeste.com.br/wp-content/uploads/2012/05/gato-triste.jpg?resize=236%2C213" style="width:100px;height:auto" /></h3>
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.Name("Espécie")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Animal.Especie.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Animal.Raca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Animal.Raca)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Animal.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Animal.Nome)
+        </dd>
+        <dt>
+            @Html.Name("Adotado Por")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pessoa.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DataAdocao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataAdocao)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Confirmar" class="btn btn-success" /> |
+            
+                @Html.ActionLink("Lista de Adotados", "Index", null, new { @class = "btn btn-mini btn-info" })
+           
+        </div>
+    }
+</div>
