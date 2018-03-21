@@ -12,16 +12,16 @@ namespace Web.Mvc.Controllers
     public class UsuarioController : Controller
     {
         // private DesafioDBContext db = new DesafioDBContext();
-       
+
         IUsuarioService _usuarioService;
-        public UsuarioController( IUsuarioService usuarioService)
-        {           
+        public UsuarioController(IUsuarioService usuarioService)
+        {
             _usuarioService = usuarioService;
         }
         // GET: Usuario
         public ActionResult Index()
         {
-           
+
             if (Session["usuarioLogadoID"] != null)
             {
                 return View(_usuarioService.GetAll());
@@ -35,7 +35,7 @@ namespace Web.Mvc.Controllers
         // GET: Usuario/Details/5
         public ActionResult Details(int id)
         {
-           
+
             Usuario usuario = _usuarioService.GetUsuario(id);
             if (usuario == null)
             {
@@ -59,7 +59,7 @@ namespace Web.Mvc.Controllers
         {
             if (ModelState.IsValid)
             {
-                _usuarioService.Add(usuario);                
+                _usuarioService.Add(usuario);
                 return RedirectToAction("Index");
             }
 
@@ -69,7 +69,7 @@ namespace Web.Mvc.Controllers
         // GET: Usuario/Edit/5
         public ActionResult Edit(int id)
         {
-           
+
             Usuario usuario = _usuarioService.GetUsuario(id);
             if (usuario == null)
             {
@@ -96,7 +96,7 @@ namespace Web.Mvc.Controllers
         // GET: Usuario/Delete/5
         public ActionResult Delete(int id)
         {
-           
+
             Usuario usuario = _usuarioService.GetUsuario(id);
             if (usuario == null)
             {
@@ -112,10 +112,10 @@ namespace Web.Mvc.Controllers
         {
 
             _usuarioService.Delete(id);
-      
+
             return RedirectToAction("Index");
         }
 
-     
+
     }
 }

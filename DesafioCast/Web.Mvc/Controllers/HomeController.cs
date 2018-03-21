@@ -23,15 +23,33 @@ namespace Web.Mvc.Controllers
         {
             try
                 {
-                    ViewBag.menssagenomeadotante = _adotanteService.GetAll().LastOrDefault().Pessoa.Nome;
-                    ViewBag.menssagenomeanimal = _adotanteService.GetAll().LastOrDefault().Animal.Nome;
+                    if (_animalService.GetAll().Where(a => !_adotanteService.GetAll().Any(e => e.AnimalId == a.Id)).Count() > 1)
+                    {
+                        ViewBag.menssageanimalantigo = _animalService.GetAll().Where(a => !_adotanteService.GetAll().Any(e => e.AnimalId == a.Id)).FirstOrDefault().Nome;
+                    }
+                    else
+                    {
+                        ViewBag.menssageanimalantigo = null;
+                    }
+                    ViewBag.menssageanimalnovo = _animalService.GetAll().Where(a => !_adotanteService.GetAll().Any(e => e.AnimalId == a.Id)).LastOrDefault().Nome;                
                 }
             catch (Exception)
                 {
-                    ViewBag.menssagenomeadotant = null;
-                    ViewBag.menssagenomeanimal = null;
-                }
-         
+                ViewBag.menssageanimalantigo = null;
+                ViewBag.menssageanimalnovo = null;
+            }
+            try
+            {
+                ViewBag.menssagenomeadotante = _adotanteService.GetAll().LastOrDefault().Pessoa.Nome;
+                ViewBag.menssagenomeanimal = _adotanteService.GetAll().LastOrDefault().Animal.Nome;
+            }
+            catch (Exception)
+            {
+                ViewBag.menssagenomeadotant = null;
+                ViewBag.menssagenomeanimal = null;
+
+            }
+
             return View();
         }
 

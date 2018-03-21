@@ -24,23 +24,32 @@
                     <li>@Html.ActionLink("Pessoa", "Index", "Pessoa")</li>
                     <li>@Html.ActionLink("Animal", "Index", "Animal")</li>
                     <li>@Html.ActionLink("Adotar", "Index", "Adotante")</li>
-                    <li>@Html.ActionLink("About", "About", "Home")</li>
-                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    <li>@Html.ActionLink("Sobre", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contato", "Contact", "Home")</li>
+
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li>@Html.ActionLink(" Entrar", "Login", "Home", new { @class = "glyphicon glyphicon-log-in" })</li>
-                    <li>@Html.ActionLink(" Registrar", "Login", "Home", new { @class = "glyphicon glyphicon-record" })</li>  
-                </ul>
+                    @if (Session["usuarioLogadoID"] == null)
+                    {
+                        <li><a id="login" class="glyphicon glyphicon-log-in" href="/Home/Login?Length=4"> Login</a></li>
+                    }
+                    else
+                    {
+                        <br />
+                        <p style="color:white">Bem vindo @Session["nomeUsuarioLogado"].ToString()</p>
+                    }
+
+</ul>
             </div>
         </div>
     </div>
 
     <div class="container body-content">
         @RenderBody()
-        <hr />  
+        <hr />
         <footer>
             <p>&copy; @DateTime.Now.Year - Adoção de Animais</p>
-        </footer>   
+        </footer>
     </div>
 
 
